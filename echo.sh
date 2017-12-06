@@ -1,4 +1,4 @@
-echo ' ---> Hello shnew test-runci'
+echo ' ---> Hello shnew test-runciw'
 
 
 sleep 1m
