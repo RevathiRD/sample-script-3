@@ -1,4 +1,4 @@
-echo ' ---> Hello snew test-run-123'
+echo ' ---> Hello snew test-run-1234'
 
 
 sleep 1m
